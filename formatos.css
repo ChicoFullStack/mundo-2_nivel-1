@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+}
+
+body{
+    background: url('img/fundo_compressed.png') rgba(0, 0, 0, 0.3);
+    background-color: rgb(255, 255, 255);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bemvindo{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+}
+
+@media(max-width: 991px){
+    .sidebar{
+        background-color: rgba(255, 255, 255, 0.8);
+        backdrop-filter: blur(10px);
+    }
+}

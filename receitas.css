@@ -1,0 +1,11 @@
+p.truncate-60{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.espaco{
+    color: transparent;
+}
