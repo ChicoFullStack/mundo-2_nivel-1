@@ -26,3 +26,17 @@ prática;
 Nessa missão, é esperado que você demonstre as habilidades básicas para a
 construção de páginas HTML e uso do CSS.
 
+
+## Aprendizados
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/w3css/default.asp)
+- [GitHub](https://github.com/)
+- [VScode](https://code.visualstudio.com/)
+
+
+
